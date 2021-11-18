@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+}
+h1:hover{
+    color: green;
+}
+p:active{
+    background: grey;
+}
+a:visited{
+    color: lightgray;
+}
+img:hover{
+    visibility: hidden;
+}

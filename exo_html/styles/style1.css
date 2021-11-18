@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 4.5em;
+}
+h3 {
+    color: #0000ff;
+    font-size: 3em;
+}
+p {
+    background-color: grey;
+}
+#p3 {
+    background-color: pink;
+}
+/*balise strong */
+strong {
+    color: yellowgreen;
+}
+/*balise em*/
+em {
+    color: orange;
+    text-decoration: underline;
+    font-size: 1.5em;
+}
+#h2 {
+    color: green;
+    text-align: right;
+    text-decoration: underline;
+}
